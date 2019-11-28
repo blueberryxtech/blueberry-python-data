@@ -29,9 +29,8 @@ In this post we explore two core concepts with fNIRS data:
 
 ### 1: Installing Libraries
 ```
-Install the required libraries for [scikit learn](https://github.com/scikit-learn/scikit-learn) 
-and [pandas](https://github.com/pandas-dev/pandas) (tools for managing the data + performing some of the initial analysis) 
-- this notebook was built using Python 3 Kernel.
+Install the required libraries for scikit learn and pandas (tools for managing the 
+data + performing some of the initial analysis) - this notebook was built using Python 3 Kernel.
 ```
 
 ### 2. Simple Statistics
