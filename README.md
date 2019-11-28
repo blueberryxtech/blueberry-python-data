@@ -6,7 +6,7 @@
 
 ### General Info
 
-[Sample Repo For Data Experiment with fNIRS - Hemodynamic Response Data](https://medium.com/blueberryx/learn-to-work-with-next-gen-neurotech-data-fnirs-with-this-easy-tutorial-7ce9272ee9fb)
+[Blog Post on Data Experiment with fNIRS - Hemodynamic Response Data](https://medium.com/blueberryx/learn-to-work-with-next-gen-neurotech-data-fnirs-with-this-easy-tutorial-7ce9272ee9fb)
 
 
 ![explanation of fNIRS - thinking intensity](https://raw.githubusercontent.com/blueberryxtech/blueberry-python-data/master/images/explanation.png)
